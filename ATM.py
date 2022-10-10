@@ -58,7 +58,5 @@ class Atm:
             self.__balance = self.__balance + dep
         else:
             print("incorrect Pin")
-sbi = Atm
 
-sbi.menu()
 
